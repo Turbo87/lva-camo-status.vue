@@ -1,6 +1,6 @@
 {
-  "name": "lva-camo-status",
-  "short_name": "lva-camo-status",
+  "name": "CAMO Status LVA",
+  "short_name": "CAMO LVA",
   "icons": [
     {
       "src": "/img/icons/android-chrome-192x192.png",
